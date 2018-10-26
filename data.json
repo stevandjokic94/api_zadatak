@@ -1,1 +1,1 @@
-{"employees": [{"age": 23, "name": "Dusan Markovic"}, {"age": 25, "name": "Marko Dedovic"}, {"age": 23, "name": "Stevan Djokic"}], "departments": [{"sector": "IT", "num_of_people": 12}, {"name": "finance", "num_of_people": 26}]}
+{"employees": [{"age": 23, "name": "Dusan Markovic"}, {"age": 25, "name": "Marko Dedovic"}, {"age": 23, "name": "Stevan Djokic"}, {"age": 23, "name": "Ilija"}], "departments": [{"sector": "IT", "num_of_people": 12}, {"sector": "finance", "num_of_people": 26}, {"sector": "directors", "num_of_people": 3}]}
