@@ -1,0 +1,1 @@
+{"employees": [{"age": 23, "name": "Dusan Markovic"}, {"age": 25, "name": "Marko Dedovic"}, {"age": 23, "name": "Stevan Djokic"}], "departments": [{"sector": "IT", "num_of_people": 12}, {"name": "finance", "num_of_people": 26}]}
